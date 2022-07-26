@@ -1,7 +1,10 @@
 [
     {
-    "name" : "khari",
-    "prfession" : "student"
-    }
+        "Post": {
+          "name": "kha",
+          "profession": "stu"
+        }
+     
+      }
 
 ]
