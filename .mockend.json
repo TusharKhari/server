@@ -1,6 +1,11 @@
 
  {
-  "post" : {
-    "name" : "g"
-   }
+    "Post": {
+      "title": { "string": [
+        "khari", "hg"
+      ] },
+      "comments": {
+        "hasMany": "Comment"
+      }
+    }
   }
