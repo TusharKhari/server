@@ -3,9 +3,7 @@
     "Post": {
       "title": { "string": [
         "khari", "hg"
-      ] },
-      "comments": {
-        "hasMany": "Comment"
-      }
+      ] }
+      
     }
   }
